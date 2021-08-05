@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Language Master</string>
+    <string name="m_1">Home</string>
+    <string name="m_2">Beginner Japanese</string>
+    <string name="m_3">Beginner Korean</string>
+    <string name="m_4">Expert Japanese</string>
+    <string name="m_5">Expert Korean</string>
+    <string name="s_title">TK Chung</string>
+    <string name="nav_draw_open">Nav Draw Open</string>
+    <string name="nav_draw_close">Nav Draw Close</string>
+    <string name="speech_rate">0.6</string>
+</resources>
