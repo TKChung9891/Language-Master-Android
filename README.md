@@ -4,6 +4,7 @@ Language Master is a Android App for learning Japanese and Korean. This Language
 
 You can watch the demo of this App at https://youtu.be/pdALxU6beo8
 
+You can install the App via Google Play Store: https://play.google.com/store/apps/details?id=com.tkchung.languagemaster
 
 ![Screenshot 1](https://user-images.githubusercontent.com/88481617/128447185-ee0c4ddb-0114-4b0c-acec-bf4c1cb63774.png)
 ![Screenshot 2](https://user-images.githubusercontent.com/88481617/128447213-561936b0-d50d-4eaf-a979-e3741ee8caa6.png)
